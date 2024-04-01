@@ -1,0 +1,36 @@
+[
+   {
+      "horizontal": true,
+      "data": [
+         {
+            "title": "Yves Saint Laurent",
+            "author": "Suzy Menkes ",
+            "image": "https://s3-alpha-sig.figma.com/img/e458/6c5d/7372d2e5458827acd2b41e8111f153e7?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WYnESkVYKZ3lXNY64BHp1yBJVWqF~8OdU0KZP~O76gsgWO29xfzkceCLjZyD-YP~2FdMFevQw2Ya24ignf3~POXVlCiVN5IVeX~pwSLyu979G6LCzgjNZ8oSg6UPhXFBQu4RkPhb~xQQJAddn1xwIwPeVRoFR2S1O4ptTU3Z5B0xOkTXfDabQt1W4VCBWtLXPRuNXcdnQCDfaVJ~bg2xGpE0WwmXdQ0ZGIiADUySJDo9ZpfnDHR-nkUKTXYPNTO4XUQxsrMijLW4cR8uICjwTm9KCNMScAHD74qfjGqMThKDAYKnGU7G5UnAHIsW9cW6hUut5DMkRjzKJxnItxHeSA__",
+            "descriptions": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion. ",
+            "starnumber": "4.0/5.0",
+            "starimg": "https://raw.githubusercontent.com/sunnywang930410/starsimg/main/4stars.png",
+            "havestar": true
+         },
+         {
+            "title": "The Book of Signs",
+            "author": "Rudolf Koch ",
+            "image": "https://s3-alpha-sig.figma.com/img/a6b7/c8c7/3db01feb6161a1c16f579aa23c453740?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=puH5GCyI0pjm0hJGTQJidniEWzBdmpNvShjcQA79ErqV--5CRxBSYcrMpa9vl-8PP0gU4ORhTZiylMB9wEdcsv0-niJl2TNVCaiNXdsM0JdK2uL6QhPDnkshHUMT9XtJ3kTumE6nWPK7pl5OA-uhJC9WS0PCBXEbivns~8Rvpx4qCNq55fdJOK7fwcqDX~sbsCAIyOQa24H~9Ler8MflpYJQF1vQyF8tI3gckNXdVbetPKddNKjihqgG9atv541ikONbmAlKRlrubMSymTQZFfjHgLfJ3tCGdWCDHaXFALNsdPqj5wyZCH14LMveGHIYUQz6RPY0Tu6cGlaTdsj8KA__",
+            "star": "https://raw.githubusercontent.com/sunnywang930410/starsimg/main/4stars.png",
+            "descriptions": "Taylor Swift has been enhanced by the addition of 3 brand new tracks (\"I'm Only Me When I'm With You\", \"Invisible\", \"A Perfectly Good Heart\") and a pop version of the hit single \"Teardrops On My Guitar\".",
+            "starnumber": "3.0/5.0",
+            "starimg": "https://raw.githubusercontent.com/sunnywang930410/starsimg/main/3stars.png",
+            "havestar": true
+         },
+         {
+            "title": "Stitched Up",
+            "author": "Tansy E. Hoskins",
+            "image": "https://s3-alpha-sig.figma.com/img/185c/7484/56dfcaedefa45ba02fe6718c381bbf99?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fl2bJ3K1cQ1VYm25IEVLJLWfo2FL2SXNLES0gJeLx0eaDpHiwuRyQcHYQyYmwgtv1FS5DjIy2AwtpdlPqkDzFLLvsCSs5t~rQRJiWov~gOIjYRbYp7z5mlSLrKb5lWZx8l7XAvjlC1yZCD3TEQSQuObhkHAaSk3REP5zH9wjzU~eU30E9w6NKKQoOA0mHGNjaKgkNiMmvsmnYxq521FWaYRkD6sluJ9DXCWG5z04fRwAlqSbuGSm7OTH60dZBj-xa9fasHnryVO1kPCfKA30KHhm1FR~Synbf0G65fxvMe8LAqT8VZkMOf4SYwPbFsnHtR8ja-tfg0aSRNJxnIgAUA__",
+            "star": "https://raw.githubusercontent.com/sunnywang930410/starsimg/main/3stars.png",
+            "descriptions": "Taylor Swift has been enhanced by the addition of 3 brand new tracks (\"I'm Only Me When I'm With You\", \"Invisible\", \"A Perfectly Good Heart\") and a pop version of the hit single \"Teardrops On My Guitar\".",
+            "starnumber": "3.0/5.0",
+            "starimg": "https://raw.githubusercontent.com/sunnywang930410/starsimg/main/3stars.png",
+            "havestar": true
+         }
+      ]
+   }
+]

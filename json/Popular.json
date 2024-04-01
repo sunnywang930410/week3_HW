@@ -1,0 +1,28 @@
+[
+    {
+    "horizontal": true,
+    "data": [
+       {
+       "title": "Fashionopolis",
+       "author": "Dana Thomas",
+       "image": "https://s3-alpha-sig.figma.com/img/8098/894d/9cc9f0e42326b7024eeac18ad09f3c8e?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ZUN3wNr8H~4yDQ64YMds2OW57--aVl97bGFGOtHnG-7NLZ-Kr3wm97MUNvNiieefUultJg~N86W720ZpVifWg8gPMXHdclXYE5FEedIT~m-sFzB~hB-ukLoZoAViI2oWtzkKF2CFRCX2VF319p9WXJ~LW3YRCJUN~eKbM~L4OBAzentd5cCrUNH8Q0VwfanFLcAIcg3oVRFLIn1nd77IPk3yPvJtYHod-nga7zY9Ie72XW59kjtdun-YG3HrChbTXQ9XM1bS1JX9nEuWRB3DaeitCmzdI8Z1z78UCf-HHLomTzxVVdDlKqIg4YPgWsDV0iKv-OJeiuA5-UnccLsVJQ__",
+       "descriptions": "Taylor Swift has been enhanced by the addition of 3 brand new tracks (\"I'm Only Me When I'm With You\", \"Invisible\", \"A Perfectly Good Heart\") and a pop version of the hit single \"Teardrops On My Guitar\".",
+       "havestar": false
+       },
+       {
+          "title": "Chanel",
+          "author": "Patrick Mauriès",
+          "image": "https://s3-alpha-sig.figma.com/img/5f46/02e2/8ad53ad8b0bfa50c9d279b4a3505fdf1?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ei~iSV45l65sWX6OVyiCVcg0-8x1mE3-gEWRYFSblibypCKNCnIFDxGv2G1cwvpV22hPdB3yJs-iiXFTjDbcVFXX5yUe3HBCzlhND356qphdqWNn29Srg0YGI9fpRbKmzWRf~6gzz9Ljxgu3RRXfUoweYImekP0QGrWsa-CWkAjyZl49UshLIiCQHnTrxKRjjwCpREkARTgYrXIZ6~rw50N2YNQdQGOo4DoEyR2cIXZm3GhgLg6nNte4veo0iHi7QNwpDOy-m9j9p-eA2~-3EXYM6LKLry9MZ~RnSQ~DxD6WVKiUcoeoO-nIRVafk0CBu53tRFZS52Q9pQ2xmIqdWw__",
+          "descriptions": "Taylor Swift has been enhanced by the addition of 3 brand new tracks (\"I'm Only Me When I'm With You\", \"Invisible\", \"A Perfectly Good Heart\") and a pop version of the hit single \"Teardrops On My Guitar\".",
+          "havestar": false
+       },
+       {
+          "title": "Calligraphy",
+          "author": "June & Lucy",
+          "image": "https://s3-alpha-sig.figma.com/img/fe9a/15a4/83200d80b67a4555c8b4a19b8073085e?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EkgW-SQT8YLzEKfe7Qjtv6hL9yxFvibs7q6FQe7eZsValNGVYoiM~qSkICUz6uWrmHUzQtkhZV5zOKCkFIy3sO1DU5707ea7mL06XW-4kYX41JVapsaw~GdFgfxx3cFb78yeLGB4kBpSsFAFbIFcMYb9itIDpt3KgYzKxlQ1kQUU9aR1uSA77HEOq~FnxHUrTQyk70I3xBNia27-OyOizq9HpHqjJBixcphF8ibhusrPfeveFu0KR8BNW~zNz2jX09zwMpgpFI4TaMtzPNaXFsiU6DpApiQiHmYc-tViN6h2Ce-8kd7N89bpEF1B0zT9WNb2tFFNyexaUdjok5ydyw__",
+          "descriptions": "Taylor Swift has been enhanced by the addition of 3 brand new tracks (\"I'm Only Me When I'm With You\", \"Invisible\", \"A Perfectly Good Heart\") and a pop version of the hit single \"Teardrops On My Guitar\".",
+          "havestar": false
+       }
+       
+    ]}
+ ]
